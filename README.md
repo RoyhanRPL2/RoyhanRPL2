@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Studying at SMK Raden Umar Said<br>🤝 I’m looking for help with Communication<br>🌱 I’m currently learning Intermediate JavaScript<br>💬 Ask me about Front end development stuff<br>⚡ I can play basketball 
+🔭 I’m currently Studying at SMK Raden Umar Said<br>🤝 I’m looking for help with Communication<br>🌱 I’m currently learning Basic React.js<br>💬 Ask me about Front end development stuff<br>⚡ I can play basketball 
 
 
 ## 🌐 Socials:
